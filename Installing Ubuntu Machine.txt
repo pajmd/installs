@@ -1,7 +1,16 @@
 Installing Ubuntu Machine - Python and Vuejs development Environment
 
 1) Download ubuntu 18.04 iso iamge from the official website and create a bootable USB stick with Rufus on windows (v3) 
-   When booting some usb sticks we get initramfs error occuring. This error is due to the USB stick. Not all usb stick work fine, why???)
+   When booting some usb sticks we get initramfs error occuring. This error is due to the USB stick. Not all usb 
+   stick work fine, why???)
+   
+   note:
+   By default I got a swap wich is not great wit an SSD (or using zookeeper)
+   To find the swap:
+   cat proc/swaps
+   To remove it:
+   sudo swapoff -a
+   remove it from /etc/fstab
 
 2) install MacBuntu 18.04
     1  sudo add-apt-repository ppa:noobslab/macbuntu
