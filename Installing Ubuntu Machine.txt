@@ -12,36 +12,7 @@ Installing Ubuntu Machine - Python and Vuejs development Environment
    sudo swapoff -a
    remove it from /etc/fstab
 
-2) install MacBuntu 18.04
-    1  sudo add-apt-repository ppa:noobslab/macbuntu
-    2  sudo apt-get update
-    3  sudo apt-get install macbuntu-os-icons-v1804
-    4  sudo apt-get install macbuntu-os-ithemes-v1804
-    
-    6  sudo add-apt-repository ppa:noobslab/macbuntu
-    7  sudo apt-get update
-    8  sudo apt-get install albert
-    9  sudo apt-get install plank
-   10  sudo add-apt-repository ppa:noobslab/macbuntu
-   11  sudo apt-get update
-   12  sudo apt-get install macbuntu-os-plank-theme-v1804
-   13  plank
-   14  unity
-   15  sudo apt-get install unity-tweak-tool
-   16  unity
-   17  tweak
-   18  unity-tweak-tool
-   19  sudo apt-get install notify-osd
-   20  unity-tweak-tool
-Then with unity-tweak-tool choose a mac theme and son on see https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html
-
-	Run :
-	$> plank
-	and
-	$> albert
-	make them run a startup with some config tool Startup Appliactions, see Tweaks tool:
-	 sudo apt install gnome-tweak-tool
-	   23  gnome-tweaks
+2) Macbuntu: see the dedicated install file
 
 3) insatll Pycharm from JetBrain site
 
