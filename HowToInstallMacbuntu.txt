@@ -35,6 +35,6 @@ make them run a startup with some config tool Startup Appliactions, see Tweaks t
  sudo apt install gnome-tweak-tool
    23  gnome-tweaks
 
-In tweaks set sloppy focus to raise windows on mouse hover
+In tweaks set sloppy focus to raise windows on mouse hover (optional)
 
-
+To hide the default Launcher (on the left), go to system Settings, Dock select Auto Hide
