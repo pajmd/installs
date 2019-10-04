@@ -1,3 +1,10 @@
+From https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html
+Download MacBuntu OS Wallpapers and extract to pictures directory.
+Install Gnome Tweaks (just look for it in "Show applications" slect and istall)
+From Tweaks install the wallpaper of your choice.
+
+Then
+
     1  sudo add-apt-repository ppa:noobslab/macbuntu
     2  sudo apt-get update
     3  sudo apt-get install macbuntu-os-icons-v1804
